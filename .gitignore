@@ -1,0 +1,21 @@
+# MacOS files
+**/.DS_Store
+
+
+# Eclipse files
+**/.classpath
+**/.project
+**/.settings/
+**/bin/
+
+# IntelliJ files
+**/.idea
+
+# Vim tmp files
+**/*.swp
+
+# Gradle tmp files
+**/.gradle/
+**/build/
+
+/.metadata/
