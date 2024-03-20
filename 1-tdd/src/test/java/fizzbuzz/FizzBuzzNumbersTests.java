@@ -13,7 +13,6 @@ import static org.junit.jupiter.params.provider.Arguments.arguments;
 
 public class FizzBuzzNumbersTests {
 
-
     @ParameterizedTest
     @ValueSource(ints = { 3, 6, 15, 30, 53})
     public void testsFizz(int number) {
